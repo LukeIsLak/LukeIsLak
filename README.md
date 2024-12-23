@@ -17,8 +17,11 @@
 
 </details>
 
-
-<!-- What do I do?>
-
 <!-- Projects -->
+<details open>
+  <summary>
+    <h2 align = "center"> What am I currently working on? </h2>
+  </summary>
+    Currently, I am working on an application that allows teachers and professors to teach coding and computer science, especially to youth, more proficiently and accessible. I plan to create structure and ease for teachers and students in applications that it wasn't in before.
+  </summary>
 
