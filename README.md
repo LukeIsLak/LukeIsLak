@@ -13,7 +13,6 @@
   
   <item><b>- University:</b> I am a teacher assistant for the University of Victoria; teaching and developing students coding at a professional level.</item>
   </ul>
-  <br><br>
   Outside of school and work, I enjoy cooking, playing board games, and playing volleyball.
 
 </details>
