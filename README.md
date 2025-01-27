@@ -34,7 +34,7 @@
     <details open>
       <summary>
         <h2> RayTracing Engine </h2>
-        ![img/rte1.png]
+        ![img/rte1.png](https://github.com/LukeIsLak/LukeIsLak/blob/main/img/rte1.png?raw=true)
       </summary>
     </details>
     <details open>
