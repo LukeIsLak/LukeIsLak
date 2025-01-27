@@ -24,34 +24,27 @@
   </summary>
     I am working on a web application that allows teachers and professors to teach coding and computer science, especially to youth, more proficiently and accessible. I plan to create structure and ease for teachers and students in applications that weren't unavailable. The prototype is set to be live on February 3rd, however for academic integrity, files are not public until that timeframe!
   </summary>
+</details>
 
   <!-- Projects -->
   <details open>
     <summary>
       <h2 align = "center"> Projects and Portfolio! </h2>
     </summary>
-    
     <details open>
       <summary>
-        <h2> #Project Name
+        <h2> RayTracing Engine </h2>
+        ![img/rte1.png]
       </summary>
     </details>
-
     <details open>
       <summary>
-        <h2> #Project Name
+        <h2> Mire Mutiny
       </summary>
     </details>
-
     <details open>
       <summary>
-        <h2> #Project Name
-      </summary>
-    </details>
-
-    <details open>
-      <summary>
-        <h2> #Project Name
+        <h2> Catastrophe!
       </summary>
     </details>
   </details>
