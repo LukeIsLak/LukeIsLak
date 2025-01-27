@@ -27,15 +27,17 @@
 </details>
 
   <!-- Projects -->
-  <details open>
+  <details close>
     <summary>
       <h2 align = "center"> Projects and Portfolio! </h2>
     </summary>
     <details open>
       <summary>
         <h2> RayTracing Engine </h2>
-        ![img/rte1.png](https://github.com/LukeIsLak/LukeIsLak/blob/main/img/rte1.png?raw=true)
       </summary>
+      <p>
+        <img src="img/rte1.png" alt="RayTracing Engine Screenshot">
+      </p>
     </details>
     <details open>
       <summary>
