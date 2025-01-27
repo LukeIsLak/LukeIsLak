@@ -27,7 +27,7 @@
 </details>
 
   <!-- Projects -->
-  <details close>
+  <details open>
     <summary>
       <h2 align = "center"> Projects and Portfolio! </h2>
     </summary>
@@ -41,12 +41,20 @@
     </details>
     <details open>
       <summary>
-        <h2> Mire Mutiny
+        <h2> Spotify API Website </h2>
       </summary>
+      <p>
+        <img src="img/rte1.png" alt="RayTracing Engine Screenshot">
+      </p>
     </details>
     <details open>
       <summary>
-        <h2> Catastrophe!
+        <h2> Generational Simulator
       </summary>
+      <p>
+        <img src="img/gs1.png" alt="Generation Simulator Screenshot1">
+        <img src="img/gs1.png" alt="Generation Simulator Screenshot2">
+        <img src="img/gs1.png" alt="Generation Simulator Screenshot3">
+      </p>
     </details>
   </details>
