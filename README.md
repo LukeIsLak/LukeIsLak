@@ -22,7 +22,7 @@
   <summary>
     <h2 align = "center"> What am I currently working on: Highlight </h2>
   </summary>
-    I am working on a web application that allows teachers and professors to teach coding and computer science, especially to youth, more proficiently and accessible. I plan to create structure and ease for teachers and students in applications that weren't unavailable. The prototype is set to be live on February 3rd, however for academic integrity, files are not public until that timeframe!
+    I am working on a web application that allows teachers and professors to teach coding and computer science, especially to youth, more proficiently and accessible. I plan to create structure and ease for teachers and students in applications that weren't unavailable. The prototype is set to be live on February 3rd, however, for academic integrity, files are not public until that timeframe!
   </summary>
 </details>
 
@@ -40,6 +40,7 @@
       </p>
       <p align = "center">
         Created a ray tracing engine using C++ in a Linux environment with the ability to render images with light interactions on objects. Fully renders images into a ppm format, with customizable features for ease of use.
+        <br><br>
         Find out more about it <a href="[https://github.com/LukeIsLak/Generation-Simulator](https://github.com/LukeIsLak/Raytracing-Engine)">here!</a>
       </p>
     </details>
@@ -50,8 +51,9 @@
       <p align="center">
         <img src="img/sw1.png" alt="Spotify Website Screenshot1" width="30%">
       </p>
-      <p>
+      <p align = "center">
         Created a website in HTML, CSS, and JavaScript to show a Spotify user's information using JSON and OAuth2.0. In addition to retrieving user information, it also provides recommendations based on inputted songs or the user's current song preferences.
+        <br><br>
         While this project has been archived due to the change in the Spotify API, you can find the most recent production <a href="http://webhome.csc.uvic.ca/~lukekuligowicz/project2.html">here!</a>
       </p>
     </details>
@@ -66,6 +68,7 @@
       </p>
       <p align="center">
         A C# based generation simulator built in the Unity Game Engine. Simulates how characteristics and traits are affected by environmental conditions over some time.
+        <br><br>
         Find out more about it <a href="https://github.com/LukeIsLak/Generation-Simulator">here!</a>
       </p>
     </details>
