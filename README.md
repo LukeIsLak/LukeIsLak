@@ -2,7 +2,7 @@
 
 <!-- Who Am I -->
 <details open>
-  <summary>
+  <summary align = "center">
     <h2 align = "center"> Who Am I? </h2>
   </summary>
   I am a 3rd year BSc | Computer Science Honours student at the University of Victoria!
@@ -11,7 +11,7 @@
   <ul>
   <item><b>- Youth:</b> I have been professionally teaching youth concepts in engineering and computer science for <b>2+</b> years as of the end of 2024. I aim to engage youth creativity and intuition through engineering and computer science. Every week, every year, I aim to inspire and expand their knowledge of everything that is around them.<br><br></item>
   
-  <item><b>- University:</b> I am a teacher assistant for the University of Victoria; teaching and developing students to code at a professional level.</item>
+  <item><b>- University:</b> I am a teaching assistant for the University of Victoria; teaching and developing students to code at a professional level.</item>
   </ul>
   Outside of school and work, I enjoy cooking, playing board games, and playing volleyball.
 
@@ -28,33 +28,45 @@
 
   <!-- Projects -->
   <details open>
-    <summary>
+    <summary align = "center">
       <h2 align = "center"> Projects and Portfolio! </h2>
     </summary>
     <details open>
-      <summary>
-        <h2> RayTracing Engine </h2>
+      <summary align = "center">
+        <h2 align = "center"> RayTracing Engine </h2>
       </summary>
-      <p>
-        <img src="img/rte1.png" alt="RayTracing Engine Screenshot">
+      <p align = "center">
+        <img src="img/rte1.png" alt="RayTracing Engine Screenshot" width="30%">
+      </p>
+      <p align = "center">
+        Created a ray tracing engine using C++ in a Linux environment with the ability to render images with light interactions on objects. Fully renders images into a ppm format, with customizable features for ease of use.
+        Find out more about it <a href="[https://github.com/LukeIsLak/Generation-Simulator](https://github.com/LukeIsLak/Raytracing-Engine)">here!</a>
       </p>
     </details>
     <details open>
-      <summary>
-        <h2> Spotify API Website </h2>
+      <summary align = "center">
+        <h2 align="center"> Spotify API Website </h2>
       </summary>
+      <p align="center">
+        <img src="img/sw1.png" alt="Spotify Website Screenshot1" width="30%">
+      </p>
       <p>
-        <img src="img/rte1.png" alt="RayTracing Engine Screenshot">
+        Created a website in HTML, CSS, and JavaScript to show a Spotify user's information using JSON and OAuth2.0. In addition to retrieving user information, it also provides recommendations based on inputted songs or the user's current song preferences.
+        While this project has been archived due to the change in the Spotify API, you can find the most recent production <a href="http://webhome.csc.uvic.ca/~lukekuligowicz/project2.html">here!</a>
       </p>
     </details>
     <details open>
-      <summary>
-        <h2> Generational Simulator
+      <summary align = "center">
+        <h2 align="center"> Generational Simulator
       </summary>
-      <p>
-        <img src="img/gs1.png" alt="Generation Simulator Screenshot1">
-        <img src="img/gs1.png" alt="Generation Simulator Screenshot2">
-        <img src="img/gs1.png" alt="Generation Simulator Screenshot3">
+      <p align="center">
+        <img src="img/gs1.png" alt="Generation Simulator Screenshot1" width="30%">
+        <img src="img/gs2.png" alt="Generation Simulator Screenshot2" width="30%">
+        <img src="img/gs3.png" alt="Generation Simulator Screenshot3" width="30%">
+      </p>
+      <p align="center">
+        A C# based generation simulator built in the Unity Game Engine. Simulates how characteristics and traits are affected by environmental conditions over some time.
+        Find out more about it <a href="https://github.com/LukeIsLak/Generation-Simulator">here!</a>
       </p>
     </details>
   </details>
